@@ -1,6 +1,5 @@
 <?php
 
-
 function sieve($int){
     $result = array();
     $i = 0;
